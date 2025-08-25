@@ -8,7 +8,7 @@ This was created as a test task.
 ### Before the installation, you need to do a console command:
 ### `cd event-mangement-frontend`
 
-### Starting the installation:
+# Starting the installation:
 
 ### 1. Firstly you need to install all dependencies using:
 
@@ -25,8 +25,6 @@ This was created as a test task.
 ### 4. This run the build:
 
 ### `npm run build`
-
-
 ## Interesting things that happened to me during the task:
 
 I had a problem with dependencies. In the package.json I wrote the version 
