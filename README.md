@@ -27,7 +27,4 @@ This was created as a test task.
 ### `npm run build`
 ## Interesting things that happened to me during the task:
 
-I had a problem with dependencies. In the package.json I wrote the version 
-of tailwindcss as ^3.*" and this
-version is on demo. So, basically I just spend at least 30 minutes to find
-this bug, 'cause all the styles didn't work. I`m so glad that I have found this bug.
+The WebStorm on the front end part just couldn't find the branch and after I added the branch I needed, I come across another problem - Git couldn't compare the branches in order to merge. And the solution was just to copy all the files from the project and to create another folder with the name of the project - that folder was named as previous but git find this as a different project and I finally merge the branch with a new folder.
