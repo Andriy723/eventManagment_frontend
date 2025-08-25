@@ -1,5 +1,6 @@
 # eventManagment_frontend
 The front end part for test task. EventManager - a cite for creating, managing, searching all events.
+You can controle all the events that you created. You can see the recommandations in the deatail view page. The UI is brilliant. You can watch the events, edit them and event share them with your friends. On a cite you can also watch where the event is held and even lay a route to the point.  
 
 # Getting Started with EventManager
 
